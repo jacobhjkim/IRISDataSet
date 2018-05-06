@@ -6,9 +6,11 @@ By using K-NN classification and support vector classifiers/machine I can sepear
 
 
 ### Example ###
-Plot sepal width / petal width
-![alt text](https://github.com/TheJacobKim/IRISDataSet/blob/master/examplePhotos/Example1.png "Example1")
+#### Plotting sepal width / petal width ####
 
-Support Vector Classifier
-![alt text](https://github.com/TheJacobKim/IRISDataSet/blob/master/examplePhotos/Example2.png "Example2")
+<img src="https://github.com/TheJacobKim/IRISDataSet/blob/master/examplePhotos/Example1.png" height="276" width="415">
+
+#### Using Support Vector Classifier ####
+
+<img src="https://github.com/TheJacobKim/IRISDataSet/blob/master/examplePhotos/Example2.png" height="276" width="415">
 
